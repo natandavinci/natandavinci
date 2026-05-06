@@ -91,20 +91,24 @@ Currently focused on improving my skills in backend development, APIs, and datab
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=natandavinci&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=natandavinci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
   />
+  
+  <img 
+    height="180" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=natandavinci&layout=compact&theme=tokyonight" 
+  />
+</p>
 
+<p align="center">
   <img 
-    align="left" 
-    alt="Top Languages" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=natandavinci&theme=tokyonight&layout=compact" 
+    src="https://streak-stats.demolab.com?user=natandavinci&theme=tokyonight" 
   />
+</p> />
 </p>
 
 ---
