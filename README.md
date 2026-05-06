@@ -83,6 +83,7 @@ Currently focused on improving my skills in backend development, APIs, and datab
 />
 
 <br/>
+<br/>
 
 
 ## 📊 Estatisticas
@@ -106,16 +107,3 @@ Currently focused on improving my skills in backend development, APIs, and datab
 
 ---
 
-## 🎯 Focus
-
-- Process automation with Python  
-- Data analysis and business insights  
-- Backend development and APIs  
-
----
-
-## 📌 About Me
-
-- 🎓 Degree in Systems Analysis and Development (Estácio de Sá)  
-- 📍 Based in Ceará, Brazil  
-- 💼 Open to freelance opportunities  
