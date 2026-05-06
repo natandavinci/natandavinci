@@ -89,7 +89,7 @@ Currently focused on improving my skills in backend development, APIs, and datab
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p>
   <img 
@@ -108,8 +108,7 @@ Currently focused on improving my skills in backend development, APIs, and datab
   />
 </p>
 
-<br/>
-<br/>
+<div style="clear: both;"></div>
 
 ---
 
