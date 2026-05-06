@@ -83,11 +83,9 @@ Currently focused on improving my skills in backend development, APIs, and datab
 />
 
 <br/>
-<br/>
 
----
 
-## 📊 GitHub Stats
+## 📊 Estatisticas
 
 <table>
   <tr>
@@ -103,6 +101,9 @@ Currently focused on improving my skills in backend development, APIs, and datab
     </td>
   </tr>
 </table>
+
+<br/>
+
 ---
 
 ## 🎯 Focus
