@@ -72,7 +72,7 @@ Currently focused on improving my skills in backend development, APIs, and datab
     alt="Plotly"
     title="Plotly" 
     width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    src="https://cdn.worldvectorlogo.com/logos/plotly-1.svg" 
 />
 <img 
     align="left" 
