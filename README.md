@@ -36,33 +36,6 @@ Currently focused on improving my skills in backend development, APIs, and datab
     </a>
 </p>
 
----
-## 🚀 Featured Projects
-
-### 📊 Customer Churn Analysis
-Data analysis project focused on identifying churn patterns and proposing business strategies.
-
-- Reduced churn from **57% to 18% (simulation)**
-- Tools: Pandas, Plotly  
-- 🔗 https://github.com/natandavinci/customer-churn-analysis
-
----
-
-### 🤖 Product Registration Automation
-Automation project using Selenium to register products from a CSV file into a web system.
-
-- Automated repetitive manual process  
-- Integrated data handling with Pandas  
-- 🔗 https://github.com/natandavinci/product-registration-automation
-
----
-
-### 📦 Order Management App
-Mobile application for managing orders for small businesses.
-
-- Built with React Native (Expo) and TypeScript  
-- Focus on organization and usability  
-- 🔗 https://github.com/natandavinci/order-management-app
 
 ---
 
