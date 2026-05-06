@@ -8,9 +8,7 @@ I have experience building projects that automate processes, analyze large datas
 
 Currently focused on improving my skills in backend development, APIs, and database integration.
 
----
-
-## 🌐 Connect with me
+<br/>
 
 <p align="left">
     <a href="https://github.com/natandavinci">
