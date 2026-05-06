@@ -67,13 +67,7 @@ Currently focused on improving my skills in backend development, APIs, and datab
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Plotly"
-    title="Plotly" 
-    width="30px" 
-    src="https://cdn.worldvectorlogo.com/logos/plotly-1.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git"
