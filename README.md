@@ -80,7 +80,7 @@ Currently focused on improving my skills in backend development, APIs, and datab
 <br/>
 
 
-## 📊 Estatisticas
+## 📊 Statistics
 
 <table>
   <tr>
